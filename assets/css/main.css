@@ -3575,6 +3575,7 @@
 		justify-content: center;
 		max-width: 45em;
 		background-color: rgba(0,0,0, 0.6);
+		border-radius: 20px;
 		padding: 20px;
 	}
 
@@ -3721,7 +3722,7 @@
 /* Footer */
 
 	#footer {
-		padding: 6em 0 4em 0 ;
+		/*padding: 6em 0 4em 0 ;*/
 		background-color: #1d242a;
 		text-align: center;
 	}
