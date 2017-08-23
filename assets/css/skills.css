@@ -14,9 +14,13 @@
 .devicon-sass-original
 {
   font-size: 6rem;
-
 }
 
 li {
   margin: 15px;
+}
+
+.social-media {
+  display: flex;
+  justify-content: space-around;
 }
