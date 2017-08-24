@@ -33,3 +33,8 @@ li {
 .menu-top-right {
   margin: 0;
 }
+
+header.major {
+  margin: 0;
+  padding: 0;
+}
