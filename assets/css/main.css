@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: rgb(95, 73, 127);
+			background: -webkit-linear-gradient(rgb(100, 150, 200), rgb(46, 56, 66));
 			color: #c7ebe8;
 		}
 
